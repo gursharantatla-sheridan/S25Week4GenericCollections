@@ -58,12 +58,24 @@ namespace S25Week4GenericCollections
 
 
             // List
+            // GOOD - dynamic in size
+            // GOOD - no performance issue
+            // GOOD - type-safe
 
             List<int> myList = new List<int>();
+            Console.WriteLine(myList.Capacity);
+
             myList.Add(10);
+            Console.WriteLine(myList.Capacity);
+
             myList.Add(20);
             myList.Add(30);
             myList.Add(40);
+
+            myList.Add(50);
+            Console.WriteLine(myList.Capacity);
+
+            //myList.Add("hello");
 
             sum = 0;
 
