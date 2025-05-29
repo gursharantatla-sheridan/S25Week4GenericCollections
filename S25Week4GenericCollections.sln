@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36121.58 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S25Week4GenericCollections", "S25Week4GenericCollections\S25Week4GenericCollections.csproj", "{E839D69C-E8F5-4974-BFA7-027D6FF51C1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExample", "ListExample\ListExample.csproj", "{576D6144-A3B5-4D1E-8A09-3593B0C0AF8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E839D69C-E8F5-4974-BFA7-027D6FF51C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E839D69C-E8F5-4974-BFA7-027D6FF51C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E839D69C-E8F5-4974-BFA7-027D6FF51C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576D6144-A3B5-4D1E-8A09-3593B0C0AF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576D6144-A3B5-4D1E-8A09-3593B0C0AF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576D6144-A3B5-4D1E-8A09-3593B0C0AF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576D6144-A3B5-4D1E-8A09-3593B0C0AF8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
