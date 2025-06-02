@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExample", "Dictio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExample", "StackExample\StackExample.csproj", "{D940A7DD-E1FA-4793-A042-A5BAEA9603A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueExample", "QueueExample\QueueExample.csproj", "{24DF667F-3B03-4636-89A0-5A2075C7CCB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D940A7DD-E1FA-4793-A042-A5BAEA9603A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D940A7DD-E1FA-4793-A042-A5BAEA9603A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D940A7DD-E1FA-4793-A042-A5BAEA9603A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DF667F-3B03-4636-89A0-5A2075C7CCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DF667F-3B03-4636-89A0-5A2075C7CCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DF667F-3B03-4636-89A0-5A2075C7CCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DF667F-3B03-4636-89A0-5A2075C7CCB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
